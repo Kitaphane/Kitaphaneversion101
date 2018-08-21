@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "947181633738",
+    "firebase_url": "https://kitaphane-version101.firebaseio.com",
+    "project_id": "kitaphane-version101",
+    "storage_bucket": "kitaphane-version101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947181633738:android:83809a1c06e7e106",
+        "android_client_info": {
+          "package_name": "com.example.kivan.kitaphaneversion101"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947181633738-19fnd3rc76e53g27q8kf1bech1kac779.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kivan.kitaphaneversion101",
+            "certificate_hash": "5a06f1e5e688fe39787a9e6d68e0726eaec2a96c"
+          }
+        },
+        {
+          "client_id": "947181633738-f9ooek6p9f7ih06gp8ppps2fp9jrqtq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX8-lEOX2ujYyoOjkuIPZ8-MDXELUk1Ec"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947181633738-f9ooek6p9f7ih06gp8ppps2fp9jrqtq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
